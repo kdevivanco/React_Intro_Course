@@ -3,7 +3,7 @@ import './App.css';
 
 
 
-// Person component:
+// Props:
 const Person = (props) => {
     // const person = {
     //     name: 'John',
